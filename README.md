@@ -1,7 +1,5 @@
 # SQL-Project
 
-In your GitHub repository, create a README.md project overview file with the following sections:
-
 1.Project Name: NBA Betting Insights
 
 2.Project Objective
